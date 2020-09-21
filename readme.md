@@ -5,6 +5,7 @@ for https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
 ## Usage instructions:
 
  - Python 3.7
+ - better to create virtual enviroment with packages, listed in *requirements.txt*
  - *get Chromium for your OS here: https://sites.google.com/a/chromium.org/chromedriver/downloads, put it into main directory*
  - all dependencies in requirements.txt
  - run in terminal `py.test -s test.py --html=report.html`
